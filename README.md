@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/419d6aa9-4333-4830-b955-a078ffaf0c04)# GoogleDataAnalyticsCapstoneProject
+# GoogleDataAnalyticsCapstoneProject
 Analyzed bike ride data for a bike-sharing firm to discern divergences in bike usage between casual and member riders
 
 
